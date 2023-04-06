@@ -1,2 +1,2 @@
-### Selam, ben Fatma Betül 👋
-Python öğreniyorum. 
+### Hi there ,I'm Fatma Betül 👋
+I'm currently learning Python . 
